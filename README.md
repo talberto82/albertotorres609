@@ -9,7 +9,7 @@
 
 - <b>Microsoft Azure
   - [Configuring Active Directory within Azure VMs](https://github.com/talberto82/Configuring-Active-Directory-within-Azure-VMs/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/albertotorres609/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/talberto82/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/edit/main/README.md)
 
   <h2>🤳Connect with me:</h2>
   [<img align="left" alt="Alberto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
